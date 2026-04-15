@@ -17,7 +17,6 @@ This project is a simple DOM manipulation exercise that displays a list of books
 
 ### Steps
 1. Clone the repository:
-```bash
 git clone git@github.com:safiabulle/lab-flatiron-book-store.git
 2. Navigate into the project folder:
 cd lab-flatiron-book-store
